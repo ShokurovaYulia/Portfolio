@@ -7,7 +7,7 @@
 ## Навыки и технологии<br>  
 Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Git, Chrome DevTools.
 
-## Проекты<br>
+## Проекты<br>   
 ### Проект 1: <br>
 Тест модуля "Личные события в календаре" веб-приложения для учителей от Skyeng 
 
