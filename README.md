@@ -4,9 +4,8 @@
 Привет! Меня зовут Юлия, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-**Навыки и технологии**  
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
+**Навыки и технологии**<br>  
+Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Git, Chrome DevTools.
 
 Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
