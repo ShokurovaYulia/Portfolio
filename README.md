@@ -8,7 +8,7 @@
 Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Git, Chrome DevTools.
 
 ## Проекты<br>
-## Проект 1: <br>
+### Проект 1: <br>
 тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
