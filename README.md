@@ -26,7 +26,8 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Git, Chrome DevTools.
 4. оформила баг-репорты
 5. написала отчет по тестированию 
 
-#### Ссылка на проект<br> https://shokurova.atlassian.net/l/cp/rbRXy6Dn
+#### Ссылка на проект<br>
+https://shokurova.atlassian.net/l/cp/rbRXy6Dn
 
 Выводы: по результатам тестирование, было принято решение, что продукт не готов к релизу
 
@@ -40,7 +41,21 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Git, Chrome DevTools.
 2. определила метод, путь, запрос(тело) для каждого кейса
 3. предположила ответ на запрос для каждого кейса
    
-#### Ссылка на проект <br> https://shokurova.atlassian.net/l/cp/apFuGLPJ 
+#### Ссылка на проект <br> 
+https://shokurova.atlassian.net/l/cp/apFuGLPJ 
+
+### Проект 3: <br> 
+Тест ручки getUser
+
+#### Что нужно было сделать:<br>
+Составьте оптимальный набор тест-кейсов для проверки ручки getUser
+#### Как решала:<br> 
+1. составила +/-тест-кейсы
+2. определила метод, путь, запрос(тело) для каждого кейса
+3. предположила ответ на запрос для каждого кейса
+   
+#### Ссылка на проект <br> 
+https://shokurova.atlassian.net/l/cp/Ate23ajS
 
 Контактная информация
 Email: shokurova.yu@gmail.com
