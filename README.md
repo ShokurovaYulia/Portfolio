@@ -25,14 +25,14 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, SoapUI, Git, Chrome DevTools.
 2. создала API ключ на соответствующее приложение
 3. в Postman протестировать работу метода с указанными параметрами
 
-#### Ссылка на коллекцию<br>
-https://drive.google.com/file/d/13cm8d4WIHV4JdS7NcNPmslzZ5uiGykYt/view?usp=drive_link
+#### Ссылка на проект<br>
+https://flying-opossum-dfc.notion.site/API-37c8789194284b70b5cdc9552be7c862?pvs=4
 
 ### Проект 2: <br>
 Написание SQL-запросов
 
 #### Ссылка на проект<br>
-https://www.notion.so/SQL-d55754bfddd3438a843b7190219d01cb?pvs=4
+https://flying-opossum-dfc.notion.site/SQL-d55754bfddd3438a843b7190219d01cb?pvs=4
 
 ### Проект 3: <br>
 Тест модуля "Личные события в календаре" веб-приложения для учителей от Skyeng 
@@ -53,7 +53,7 @@ https://www.notion.so/SQL-d55754bfddd3438a843b7190219d01cb?pvs=4
 5. написала отчет по тестированию 
 
 #### Ссылка на проект<br>
-https://www.notion.so/Skyeng-e71257687838486ab6677b79365ad0c9?pvs=4
+https://flying-opossum-dfc.notion.site/Skyeng-e71257687838486ab6677b79365ad0c9?pvs=4
 <br>
 ### Выводы:<br> по результатам тестирование, было принято решение, что продукт не готов к релизу
 
@@ -71,7 +71,7 @@ https://www.notion.so/Skyeng-e71257687838486ab6677b79365ad0c9?pvs=4
    - Есть ли баги любого типа на приведенных скриншотах? Если есть, опишите все.
    
 #### Ссылка на проект<br>
-https://www.notion.so/2ed2a4b5d8e14d6080c91df5c34252ea?pvs=4
+https://flying-opossum-dfc.notion.site/2ed2a4b5d8e14d6080c91df5c34252ea?pvs=4
 
 ### Проект 5: <br> 
 Тест ручки register
@@ -84,7 +84,7 @@ https://www.notion.so/2ed2a4b5d8e14d6080c91df5c34252ea?pvs=4
 3. предположила ответ на запрос для каждого кейса
    
 #### Ссылка на проект <br> 
-https://www.notion.so/register-a360076942064c89a1efca4120c9073e?pvs=4
+https://flying-opossum-dfc.notion.site/register-a360076942064c89a1efca4120c9073e?pvs=4
 
 ### Проект 6: <br> 
 Тест ручки getUser
@@ -97,7 +97,7 @@ https://www.notion.so/register-a360076942064c89a1efca4120c9073e?pvs=4
 3. предположила ответ на запрос для каждого кейса
    
 #### Ссылка на проект <br> 
-https://www.notion.so/getUser-8bfcf1eb666b413da99815ac7b596901?pvs=4
+https://flying-opossum-dfc.notion.site/getUser-8bfcf1eb666b413da99815ac7b596901?pvs=4
 
 ### Проект 7: <br> 
 Тест страницы регистрации/авторизации musescore.com 
@@ -111,7 +111,7 @@ https://www.notion.so/getUser-8bfcf1eb666b413da99815ac7b596901?pvs=4
 3. запустила тест-ран
    
 #### Ссылка на проект <br> 
-https://www.notion.so/musescore-com-354cfe659b4745629d1b180f7043ef89?pvs=4
+https://flying-opossum-dfc.notion.site/musescore-com-354cfe659b4745629d1b180f7043ef89?pvs=4
 ### Выводы:<br> Есть небольшие недочеты, не влияющие критично на работу обеих форм. Можно запускать в реализацию
 
 ### Проект 8: <br> 
@@ -127,7 +127,7 @@ https://www.notion.so/musescore-com-354cfe659b4745629d1b180f7043ef89?pvs=4
 3. запустила тест-ран
    
 #### Ссылка на проект <br> 
-https://www.notion.so/85dc5556eb364ee19b901c84fee4c309?pvs=4
+https://flying-opossum-dfc.notion.site/85dc5556eb364ee19b901c84fee4c309?pvs=4
 ### Выводы:<br> Есть вопросы, которые требуют уточнения(TTSK2-6 и TTSK2-7). Можно запускать в реализацию
 
 
