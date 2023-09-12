@@ -131,5 +131,5 @@ https://flying-opossum-dfc.notion.site/85dc5556eb364ee19b901c84fee4c309?pvs=4
 ### Выводы:<br> Есть вопросы, которые требуют уточнения(TTSK2-6 и TTSK2-7). Можно запускать в реализацию
 
 
-Контактная информация
+Контактная информация <br> 
 Email: shokurova.yu@gmail.com
